@@ -1,5 +1,3 @@
-#Dayoung Nam, Grace Shi 
-#ESC180, Project 1: Credit Cards 
 
 #this function initializes and declares global variable
 def initialize(): 
